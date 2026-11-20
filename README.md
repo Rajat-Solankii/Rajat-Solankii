@@ -7,8 +7,8 @@
 Building multi-tenant web platforms, open-source media apps, AI-powered tools, and 3D games—with a focus on dark-mode and Material 3 interfaces.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rajat--Solankii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajat-Solankii)
-[![PixelMusic](https://img.shields.io/badge/PixelMusic-pixelmusic.me-7F52FF?style=for-the-badge&logo=musicbrainz&logoColor=white)](https://pixelmusic.me)
-[![WatchVortex](https://img.shields.io/badge/WatchVortex-watchvortex.me-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://watchvortex.me)
+[![PixelMusic](https://img.shields.io/badge/pixelmusic.me-7F52FF?style=for-the-badge&logo=musicbrainz&logoColor=white)](https://pixelmusic.me)
+[![WatchVortex](https://img.shields.io/badge/watchvortex.me-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://watchvortex.me)
 
 </div>
 
