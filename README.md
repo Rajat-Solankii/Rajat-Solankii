@@ -27,7 +27,6 @@ Building multi-tenant web platforms, open-source media apps, AI-powered tools, a
 | :--- | :--- | :--- |
 | **[EventSphere Web](https://github.com/Rajat-Solankii/EventSphere)** | Multi-tenant event management, AI generative design studio, zero-commission UPI QR checkout, and real-time anti-passback QR gate scanner | `React 19` · `Express 5` · `Prisma` · `Socket.IO` · `AWS EC2/S3` · `Gemini` |
 | **[PixelMusic](https://github.com/Rajat-Solankii/PixelMusic)** | Open-source Material 3 music player for YouTube Music & lossless FLAC audio | `Rust` · `Kotlin` · [pixelmusic.me](https://pixelmusic.me) |
-| **[AirCast AI](https://github.com/Rajat-Solankii/AirCast-AI)** | Aviation flight delay & operational risk predictor combining classification and regression | `Python` · `Streamlit` · `ML` |
 | **[NeuralCourse](https://github.com/Rajat-Solankii/NeuralCourse)** | AI-powered e-learning aggregator integrating YouTube, GitHub, and Groq APIs | `Docker` · `Render` · `Groq API` |
 | **[InterviewAce-AI](https://github.com/Rajat-Solankii/InterviewAce-AI)** | AI-driven interview preparation platform | `React` · `Node.js` · `AI` |
 | **[ParkMaster](https://github.com/Rajat-Solankii/ParkMaster)** | Full-stack parking management system | `Node.js` · `MySQL` · `Render` |
