@@ -16,7 +16,6 @@ Building multi-tenant web platforms, open-source media apps, AI-powered tools, a
 
 ### About Me
 - 🎓 Pursuing a **Bachelor of Computer Applications (BCA)** at **Christ (Deemed to be University), Delhi NCR**
-- 🏛️ **School Level Student Council Representative** (School of Sciences, 2026–2027) & Class Representative
 - 🛠️ Currently building multi-tenant cloud platforms (**React 19, Node.js, AWS**), cross-platform media players (**Kotlin & Rust**), **AI/ML** apps, and **Unity 3D** games
 
 ---
