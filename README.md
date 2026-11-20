@@ -25,7 +25,7 @@ Building multi-tenant web platforms, open-source media apps, AI-powered tools, a
 
 | Project | What It Does | Stack / Links |
 | :--- | :--- | :--- |
-| **[EventSphere Web](https://github.com/Rajat-Solankii/EventSphere)** | Multi-tenant event management, AI generative design studio, zero-commission UPI QR checkout, and real-time anti-passback QR gate scanner | `React 19` · `Express 5` · `Prisma` · `Socket.IO` · `AWS EC2/S3` · `Gemini` |
+| **[EventSphere Web](https://github.com/Rajat-Solankii/EventSphereWeb)** | Multi-tenant event management, AI generative design studio, zero-commission UPI QR checkout, and real-time anti-passback QR gate scanner | `React 19` · `Express 5` · `Prisma` · `Socket.IO` · `AWS EC2/S3` · `Gemini` |
 | **[Parity](https://github.com/Rajat-Solankii/Parity)** | Zero-execution static analysis engine for resolving Python environment divergence with AST scanning, fingerprinting, and a health telemetry dashboard | `Python` · `AST` · `Static Analysis` · `Telemetry` |
 | **[RoadSense](https://github.com/Rajat-Solankii/RoadSense)** | Road safety & disaster prevention platform for real-time risk assessment using MoRTH models and iRAD data | `Python` · `ML` · `JavaScript` · `HTML/CSS` |
 | **[PixelMusic](https://github.com/Rajat-Solankii/PixelMusic)** | Open-source Material 3 music player for YouTube Music & lossless FLAC audio | `Rust` · `Kotlin` · [pixelmusic.me](https://pixelmusic.me) |
