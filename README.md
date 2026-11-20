@@ -23,17 +23,19 @@ Building multi-tenant web platforms, open-source media apps, AI-powered tools, a
 
 ### Featured Projects
 
+### Featured Projects
+
 | Project | What It Does | Stack / Links |
 | :--- | :--- | :--- |
-| **EventSphere Web** | Multi-tenant event management, AI generative design studio, zero-commission UPI QR checkout, and real-time anti-passback QR gate scanner | `React 19` · `Express 5` · `Prisma` · `Socket.IO` · `AWS EC2/S3` · `Gemini` |
+| **[EventSphere Web](https://github.com/Rajat-Solankii/EventSphere)** | Multi-tenant event management, AI generative design studio, zero-commission UPI QR checkout, and real-time anti-passback QR gate scanner | `React 19` · `Express 5` · `Prisma` · `Socket.IO` · `AWS EC2/S3` · `Gemini` |
 | **[PixelMusic](https://github.com/Rajat-Solankii/PixelMusic)** | Open-source Material 3 music player for YouTube Music & lossless FLAC audio | `Rust` · `Kotlin` · [pixelmusic.me](https://pixelmusic.me) |
-| **AirCast AI** | Aviation flight delay & operational risk predictor combining classification and regression | `Python` · `Streamlit` · `ML` |
-| **NeuralCourse** | AI-powered e-learning aggregator integrating YouTube, GitHub, and Groq APIs | `Docker` · `Render` · `Groq API` |
-| **InterviewAce-AI** | AI-driven interview preparation platform | `React` · `Node.js` · `AI` |
-| **ParkMaster** | Full-stack parking management system | `Node.js` · `MySQL` · `Render` |
+| **[AirCast AI](https://github.com/Rajat-Solankii/AirCast-AI)** | Aviation flight delay & operational risk predictor combining classification and regression | `Python` · `Streamlit` · `ML` |
+| **[NeuralCourse](https://github.com/Rajat-Solankii/NeuralCourse)** | AI-powered e-learning aggregator integrating YouTube, GitHub, and Groq APIs | `Docker` · `Render` · `Groq API` |
+| **[InterviewAce-AI](https://github.com/Rajat-Solankii/InterviewAce-AI)** | AI-driven interview preparation platform | `React` · `Node.js` · `AI` |
+| **[ParkMaster](https://github.com/Rajat-Solankii/ParkMaster)** | Full-stack parking management system | `Node.js` · `MySQL` · `Render` |
 | **[Coin_Chase_3D](https://github.com/Rajat-Solankii/Coin_Chase_3D)** | 3D arcade game built in Unity | `C#` · `Unity` |
 
-> Also built: **RealTimeTracking**, **SafarSaathi**, **TrendHive**, **EnergyAdvisor**, **Programming Doubt Solver**, and **Graph-Theory**.
+> Also built: **[RealTimeTracking](https://github.com/Rajat-Solankii/RealTimeTracking)**, **[SafarSaathi](https://github.com/Rajat-Solankii/SafarSaathi)**, **[TrendHive](https://github.com/Rajat-Solankii/TrendHive)**, **[EnergyAdvisor](https://github.com/Rajat-Solankii/EnergyAdvisor)**, **[Programming Doubt Solver](https://github.com/Rajat-Solankii/Programming-Doubt-Solver)**, and **[Graph-Theory](https://github.com/Rajat-Solankii/Graph-Theory)**.
 
 ---
 
