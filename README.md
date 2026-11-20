@@ -23,8 +23,6 @@ Building multi-tenant web platforms, open-source media apps, AI-powered tools, a
 
 ### Featured Projects
 
-### Featured Projects
-
 | Project | What It Does | Stack / Links |
 | :--- | :--- | :--- |
 | **[EventSphere Web](https://github.com/Rajat-Solankii/EventSphere)** | Multi-tenant event management, AI generative design studio, zero-commission UPI QR checkout, and real-time anti-passback QR gate scanner | `React 19` · `Express 5` · `Prisma` · `Socket.IO` · `AWS EC2/S3` · `Gemini` |
