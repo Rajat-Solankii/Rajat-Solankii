@@ -17,7 +17,6 @@ Building multi-tenant web platforms, open-source media apps, AI-powered tools, a
 ### About Me
 - 🎓 Pursuing a **Bachelor of Computer Applications (BCA)** at **Christ (Deemed to be University), Delhi NCR**
 - 🏛️ **School Level Student Council Representative** (School of Sciences, 2026–2027) & Class Representative
-- 💼 Former **Software Development Intern** at **Skillfied Mentor**
 - 🛠️ Currently building multi-tenant cloud platforms (**React 19, Node.js, AWS**), cross-platform media players (**Kotlin & Rust**), **AI/ML** apps, and **Unity 3D** games
 
 ---
@@ -28,7 +27,6 @@ Building multi-tenant web platforms, open-source media apps, AI-powered tools, a
 | :--- | :--- | :--- |
 | **EventSphere Web** | Multi-tenant event management, AI generative design studio, zero-commission UPI QR checkout, and real-time anti-passback QR gate scanner | `React 19` · `Express 5` · `Prisma` · `Socket.IO` · `AWS EC2/S3` · `Gemini` |
 | **[PixelMusic](https://github.com/Rajat-Solankii/PixelMusic)** | Open-source Material 3 music player for YouTube Music & lossless FLAC audio | `Rust` · `Kotlin` · [pixelmusic.me](https://pixelmusic.me) |
-| **[SoundWave](https://github.com/Rajat-Solankii/SoundWaveApp)** | Custom Android & desktop media player distributed via GitHub Releases | `Kotlin` · Android · Desktop |
 | **AirCast AI** | Aviation flight delay & operational risk predictor combining classification and regression | `Python` · `Streamlit` · `ML` |
 | **NeuralCourse** | AI-powered e-learning aggregator integrating YouTube, GitHub, and Groq APIs | `Docker` · `Render` · `Groq API` |
 | **InterviewAce-AI** | AI-driven interview preparation platform | `React` · `Node.js` · `AI` |
